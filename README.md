@@ -12,7 +12,7 @@
 - **관련 주피터 노트북**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing)
 
-- **시연 영상**:  
+- **시연 이미지**:  
 [![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
 
 ---
@@ -23,7 +23,7 @@
 - **관련 주피터 노트북**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1W40Odsndj5EFLFEIJrUc_lXDWcvZmpUF?usp=sharing)
 
-- **시연 영상**:  
+- **시연 이미지**:  
 [![폐결절 찾는 시연 영상](https://github.com/oracleyu01/pilot/blob/main/%ED%8F%90%EA%B2%B0%EC%A0%88.png)]
 
 ---
