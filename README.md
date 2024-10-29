@@ -15,6 +15,8 @@
 - **시연 영상**:  
 [![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
 
+- **시연 영상**:  
+  - [유동인구 카운트 영상 보기](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
 ---
 
 ### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
